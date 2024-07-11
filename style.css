@@ -1,0 +1,11 @@
+#object{
+    background-color: antiquewhite;
+    width: 1000px;
+    text-align: center;
+}
+
+#webcam{
+    border-style:dotted;
+    height:200px;
+    width:300px;
+}
